@@ -1,0 +1,1565 @@
+.about-this-file .wave {
+    margin-bottom: 44px;
+    width: 64px;
+    height: 64px;
+}
+
+.about-this-file .arrow {
+    margin-left: 7px;
+    width: 7px;
+    height: 103px;
+}
+
+.about-this-file {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 71px 0 64px 0;
+    width: 900px;
+    box-sizing: border-box;
+}
+
+.about-this-file .hi-meet-figma {
+    margin: 44px 12.7px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Whyte', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 64px;
+    letter-spacing: -1.9px;
+    line-height: 1;
+    color: #000000;
+}
+
+.about-this-file .this-space-is-for-learning-the-basics-of-figma-by-practicing-on-some-sample-designs-theyre-for-you-to-hack-up-replicate-and-make-your-own {
+    margin-bottom: 60px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Whyte', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 28px;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+    color: #000000;
+}
+
+.about-this-file .container {
+    margin: 0 0 32px 76.7px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.landing-page {
+    border-radius: 32px;
+    background: #F9FAEF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px 0 0 96px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.landing-page .we-believe-in-produce-tasty-produce-produce-like-apples-oranges-limes-lemons-guavas-carrots-cucumbers-jicamas-cauliflowers-brussels-sprouts-shallots-japanese-eggplants-asparagus-artichokes-jerusalem-artichokes-too-radishes-broccoli-baby-broccoli-broccolini-bok-choy-scallions-ginger-cherries-raspberries-cilantro-parsley-dill-what-are-we-forgetting-oh-onions-yams-avocados-lettuce-arugulato-somerocket-persian-cucumbers-in-addition-to-aforementionednormal-cucumbers-artichokes-zucchinis-pumpkins-squashwhat-some-cultures-call-pumpkins-sweet-potatoes-and-potato-potatoes-jackfruit-monk-fruit-fruit-of-the-loom-fruits-of-our-laborthis-website-sorrel-pineapple-mango-gooseberries-blackberries-tomatoes-heirloom-tomatoes-beets-chives-corn-endive-escarole-which-we-swear-were-vendors-of-organic-produce-but-if-you-asked-us-to-describe-what-escaroles-are {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.6;
+    color: #141E0C;
+}
+
+.landing-page .what-we-believe {
+    margin: 5px 69.6px 485px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.6px;
+    line-height: 1.6;
+    text-transform: uppercase;
+    color: #141E0C;
+}
+
+.central-california-the-person-who-grew-these-was-located-in-central-california-and-er-hopefully-very-well-compensated {
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.333;
+}
+
+.central-california-the-person-who-grew-these-was-located-in-central-california-and-er-hopefully-very-well-compensated-sub27 {
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.333;
+}
+
+.landing-page .central-california-the-person-who-grew-these-was-located-in-central-california-and-er-hopefully-very-well-compensated {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Libre Baskerville';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #141E0C;
+}
+
+.landing-page .photo-1 {
+    border-radius: 24px;
+    background: url('../assets/images/photo_1.png') 50% / cover no-repeat;
+    margin-right: 60px;
+    width: 504px;
+    height: 693px;
+}
+
+.landing-page .photo-2 {
+    border-radius: 24px 0 0 24px;
+    background: url('../assets/images/photo_2.png') 50% / cover no-repeat;
+    margin-bottom: 16px;
+    width: 780px;
+    height: 480px;
+}
+
+.landing-page .button {
+    border-radius: 999px;
+    background: #476730;
+    margin: 0 96px 156px 0;
+    display: flex;
+    padding: 19px 0.6px 19px 0;
+    width: 255px;
+    box-sizing: border-box;
+}
+
+.landing-page .browse-our-shop {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #FFFFFF;
+}
+
+.landing-page .were-farmers-purveyors-and-eaters-of-organically-grown-food {
+    margin: 0 96px 26px 0;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Newsreader';
+    font-weight: 400;
+    font-size: 84px;
+    letter-spacing: -1.7px;
+    line-height: 1.2;
+    color: #141E0C;
+}
+
+.were-farmers-purveyors-and-eaters-of-organically-grown-food-sub19 {
+    font-family: 'Newsreader';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 84px;
+    letter-spacing: -1.7px;
+    line-height: 1.333;
+}
+
+.landing-page .header {
+    margin: 0 96px 156px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1248px;
+    box-sizing: border-box;
+}
+
+.landing-page .world-peas {
+    margin: 9px 16px 7px 0;
+    display: inline-block;
+    width: 678.4px;
+    overflow-wrap: break-word;
+    font-family: 'Newsreader';
+    font-weight: 500;
+    font-size: 32px;
+    letter-spacing: -0.3px;
+    line-height: 1;
+    color: #141E0C;
+}
+
+.landing-page .shop {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.landing-page .newstand {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.landing-page .who-we-are {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.landing-page .button-1 {
+    border-radius: 999px;
+    background: #476730;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 0;
+    width: 151px;
+    box-sizing: border-box;
+}
+
+.landing-page .basket {
+    margin-right: 12.3px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #FFFFFF;
+}
+
+.landing-page .shopping-bag {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.landing-page .container {
+    margin: 90px 0 65px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.landing-page .container-1 {
+    margin-bottom: 156px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+    gap: 10px;
+}
+
+.landing-page .container-2 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .container {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .lb {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #74796D;
+}
+
+.cart .frame-3 {
+    border-radius: 24px;
+    border: 3px solid #EDEFE4;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 6px 12px 6px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .minus {
+    margin: 13px 14.9px 11px 0;
+    display: flex;
+    width: 14px;
+    height: 2px;
+    box-sizing: border-box;
+}
+
+.cart .vector {
+    background: #141E0C;
+    width: 14px;
+    height: 2px;
+}
+
+.cart .container-1 {
+    margin-right: 9.9px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .plus {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart .watermelon {
+    background: url('../assets/images/watermelon.jpeg') 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: -1px;
+    width: 166px;
+    height: 166px;
+}
+
+.cart .summary {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    padding: 22px;
+    box-sizing: border-box;
+}
+
+.cart .order-summary {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Newsreader';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .subtotal {
+    margin-right: 13px;
+    width: 267.8px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-2 {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .shipping {
+    margin-right: 13px;
+    width: 278.6px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-3 {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .tax {
+    margin-right: 13px;
+    width: 278.2px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-4 {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .total {
+    margin-right: 13px;
+    width: 263.5px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-5 {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .button {
+    border-radius: 999px;
+    background: #476730;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 0;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .check-out {
+    margin-right: 12.1px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #FFFFFF;
+}
+
+.cart .arrow-right {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart .page-heading {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .items {
+    margin: 34px 0 17px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .basket {
+    margin-right: 23.5px;
+    overflow-wrap: break-word;
+    font-family: 'Newsreader';
+    font-weight: 400;
+    font-size: 64px;
+    letter-spacing: -1.3px;
+    line-height: 1.2;
+    color: #141E0C;
+}
+
+.cart .header {
+    margin-bottom: 88px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1248px;
+    box-sizing: border-box;
+}
+
+.cart .world-peas {
+    margin: 9px 16px 7px 0;
+    display: inline-block;
+    width: 678.4px;
+    overflow-wrap: break-word;
+    font-family: 'Newsreader';
+    font-weight: 500;
+    font-size: 32px;
+    letter-spacing: -0.3px;
+    line-height: 1;
+    color: #141E0C;
+}
+
+.cart .shop {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .newstand {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .who-we-are {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .button-1 {
+    border-radius: 999px;
+    background: #476730;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 0;
+    width: 151px;
+    box-sizing: border-box;
+}
+
+.cart .basket-1 {
+    margin-right: 12.3px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #FFFFFF;
+}
+
+.cart .shopping-bag {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart {
+    border-radius: 32px;
+    background: #F9FAEF;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 96px 0 96px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.cart .card {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    align-self: flex-start;
+    width: 821px;
+    height: 166px;
+}
+
+.cart .pears {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    padding-right: 22px;
+    width: 821px;
+    box-sizing: border-box;
+}
+
+.cart .bartlett-pears {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-6 {
+    margin: 22px 0 114px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .ea {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #74796D;
+}
+
+.cart .frame-31 {
+    border-radius: 24px;
+    border: 3px solid #EDEFE4;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 6px 12px 6px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .minus-1 {
+    margin: 13px 14.9px 11px 0;
+    display: flex;
+    width: 14px;
+    height: 2px;
+    box-sizing: border-box;
+}
+
+.cart .vector-8 {
+    background: #141E0C;
+    width: 14px;
+    height: 2px;
+}
+
+.cart .container-7 {
+    margin-right: 9.9px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .plus-1 {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart .pears-1 {
+    background: url("./pears.jpg") 50% / cover no-repeat;
+    margin-right: 16px;
+    width: 166px;
+    height: 166px;
+}
+
+.cart .cherries {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 22px;
+    width: 821px;
+    box-sizing: border-box;
+}
+
+.cart .rainier-cherries {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-8 {
+    margin: 22px 0 114px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .lb-1 {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #74796D;
+}
+
+.cart .frame-32 {
+    border-radius: 24px;
+    border: 3px solid #EDEFE4;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 6px 12px 6px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .minus-2 {
+    margin: 13px 16.2px 11px 0;
+    display: flex;
+    width: 14px;
+    height: 2px;
+    box-sizing: border-box;
+}
+
+.cart .vector-11 {
+    background: #141E0C;
+    width: 14px;
+    height: 2px;
+}
+
+.cart .container-9 {
+    margin-right: 11.2px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .plus-2 {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart .cherries-1 {
+    background: url("./plus_1_x2.svg") 50% / cover no-repeat;
+    margin-right: 16px;
+    width: 166px;
+    height: 166px;
+}
+
+.cart .watermelon-1 {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    position: relative;
+    margin-bottom: 16px;
+    display: flex;
+    padding: 22px;
+    width: 821px;
+    box-sizing: border-box;
+}
+
+.cart .crimson-sweet-melon {
+    margin-right: 13px;
+    width: 548.8px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+    margin-left: 465px;
+}
+
+.cart .container {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 615px;
+    box-sizing: border-box;
+}
+
+.cart .container-1 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .container-2 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.cart .container-4 {
+    margin: 24px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.cart .container-5 {
+    margin-right: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 821px;
+    box-sizing: border-box;
+}
+
+.cart .container-6 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.cart .container-7 {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .container-8 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.cart .container-9 {
+    margin: 24px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.cart .container-10 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .container-11 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .container {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .lb {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #74796D;
+    margin-left: 344px;
+}
+
+.cart .frame-3 {
+    border-radius: 24px;
+    border: 3px solid #EDEFE4;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 6px 12px 6px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+    /* margin-left: 30px; */
+    width: 120px;
+    margin-left: 200px;
+}
+
+.cart .minus {
+    margin: 13px 14.9px 11px 0;
+    display: flex;
+    width: 14px;
+    height: 2px;
+    box-sizing: border-box;
+}
+
+.cart .vector {
+    background: #141E0C;
+    width: 14px;
+    height: 2px;
+}
+
+.cart .container-1 {
+    margin-right: 9.9px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .plus {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart .watermelon {
+    background: url("./watermelon.jpg") 50% / cover no-repeat;
+    position: absolute;
+    left: 0px;
+    top: -1px;
+    width: 166px;
+    height: 166px;
+}
+
+.cart .summary {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    margin-bottom: 28px;
+    display: flex;
+    flex-direction: column;
+    padding: 22px;
+    box-sizing: border-box;
+}
+
+.cart .order-summary {
+    margin-bottom: 16px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Newsreader';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .subtotal {
+    margin-right: 13px;
+    width: 267.8px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-2 {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .shipping {
+    margin-right: 13px;
+    width: 278.6px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-3 {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .tax {
+    margin-right: 13px;
+    width: 278.2px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-4 {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .total {
+    margin-right: 13px;
+    width: 263.5px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-5 {
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .button {
+    border-radius: 999px;
+    background: #476730;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 0;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .check-out {
+    margin-right: 12.1px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #FFFFFF;
+}
+
+.cart .arrow-right {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart .page-heading {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .items {
+    margin: 34px 0 17px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .basket {
+    margin-right: 23.5px;
+    overflow-wrap: break-word;
+    font-family: 'Newsreader';
+    font-weight: 400;
+    font-size: 64px;
+    letter-spacing: -1.3px;
+    line-height: 1.2;
+    color: #141E0C;
+}
+
+.cart .header {
+    margin-bottom: 88px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1248px;
+    box-sizing: border-box;
+}
+
+.cart .world-peas {
+    margin: 9px 16px 7px 0;
+    display: inline-block;
+    width: 678.4px;
+    overflow-wrap: break-word;
+    font-family: 'Newsreader';
+    font-weight: 500;
+    font-size: 32px;
+    letter-spacing: -0.3px;
+    line-height: 1;
+    color: #141E0C;
+}
+
+.cart .shop {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .newstand {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .who-we-are {
+    margin: 11px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .button-1 {
+    border-radius: 999px;
+    background: #476730;
+    display: flex;
+    flex-direction: row;
+    padding: 11px 0;
+    width: 151px;
+    box-sizing: border-box;
+}
+
+.cart .basket-1 {
+    margin-right: 12.3px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #FFFFFF;
+}
+
+.cart .shopping-bag {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart {
+    border-radius: 32px;
+    background: #F9FAEF;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 96px 0 96px;
+    width: 1440px;
+    box-sizing: border-box;
+}
+
+.cart .card {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    align-self: flex-start;
+    width: 821px;
+    height: 166px;
+}
+
+.cart .pears {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    padding-right: 22px;
+    width: 821px;
+    box-sizing: border-box;
+}
+
+.cart .bartlett-pears {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-6 {
+    margin: 22px 0 114px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .ea {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #74796D;
+}
+
+.cart .frame-31 {
+    border-radius: 24px;
+    border: 3px solid #EDEFE4;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 6px 12px 6px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .minus-1 {
+    margin: 13px 14.9px 11px 0;
+    display: flex;
+    width: 14px;
+    height: 2px;
+    box-sizing: border-box;
+}
+
+.cart .vector-8 {
+    background: #141E0C;
+    width: 14px;
+    height: 2px;
+}
+
+.cart .container-7 {
+    margin-right: 9.9px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .plus-1 {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart .pears-1 {
+    background: url('./pears.jpg') 50% / cover no-repeat;
+    border-radius: 20px;
+    margin-right: 16px;
+    width: 166px;
+    height: 166px;
+}
+
+.cart .cherries {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 22px;
+    width: 821px;
+    box-sizing: border-box;
+}
+
+.cart .rainier-cherries {
+    margin-bottom: 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container-8 {
+    margin: 22px 0 114px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .lb-1 {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #74796D;
+}
+
+.cart .frame-32 {
+    border-radius: 24px;
+    border: 3px solid #EDEFE4;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 6px 12px 6px 17px;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .minus-2 {
+    margin: 13px 16.2px 11px 0;
+    display: flex;
+    width: 14px;
+    height: 2px;
+    box-sizing: border-box;
+}
+
+.cart .vector-11 {
+    background: #141E0C;
+    width: 14px;
+    height: 2px;
+}
+
+.cart .container-9 {
+    margin-right: 11.2px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .plus-2 {
+    margin: 1px 0;
+    width: 24px;
+    height: 24px;
+}
+
+.cart .cherries-1 {
+    background: url('./cherries.jpg') 50% / cover no-repeat;
+    border-radius: 20px;
+    margin-right: 16px;
+    width: 166px;
+    height: 166px;
+}
+
+.cart .watermelon-1 {
+    border-radius: 24px;
+    border: 2px solid #E1E4D9;
+    background: #EDEFE4;
+    position: relative;
+    margin-bottom: 16px;
+    display: flex;
+    padding: 22px;
+    width: 821px;
+    box-sizing: border-box;
+}
+
+.cart .crimson-sweet-melon {
+    margin-right: 13px;
+    width: 548.8px;
+    overflow-wrap: break-word;
+    font-family: 'Libre Franklin';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.3;
+    color: #141E0C;
+}
+
+.cart .container {
+    margin-bottom: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 615px;
+    box-sizing: border-box;
+}
+
+.cart .container-1 {
+    margin-bottom: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .container-2 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .container-3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.cart .container-4 {
+    margin: 24px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.cart .container-5 {
+    margin-right: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 821px;
+    box-sizing: border-box;
+}
+
+.cart .container-6 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.cart .container-7 {
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+}
+
+.cart .container-8 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+}
+
+.cart .container-9 {
+    margin: 24px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.cart .container-10 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 347px;
+    box-sizing: border-box;
+}
+
+.cart .container-11 {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 347px;
+    box-sizing: border-box;
+}
